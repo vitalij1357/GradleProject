@@ -4,6 +4,6 @@
 # Ignore Gradle build output director
 
 /.idea/
-/app/src/main/resources/
-/app/src/test/resources/
 /app/.idea/
+/app/
+/.idea/
